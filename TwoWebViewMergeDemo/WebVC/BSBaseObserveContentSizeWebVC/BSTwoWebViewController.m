@@ -25,6 +25,8 @@
 
 - (void)viewDidLoad {
      [super viewDidLoad];
+    
+    self.title = @"demo";
 }
 
 - (void)viewWillAppear:(BOOL)animated {
